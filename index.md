@@ -1,3 +1,7 @@
+---
+title: "ドキュメントのタイトル"
+---
+
 <!-- 編集したら >Markdown PDF Export(html) でhtml化 -->
 
 # slides
