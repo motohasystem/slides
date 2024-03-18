@@ -1,0 +1,263 @@
+/* @theme mytheme */
+
+@import "default";
+
+
+:root {
+    --accent-color: #0040ff;
+    --gradation-base: rgba(255, 255, 0, 1);
+}
+
+/* クラス名未指定全スライド共通設定 */
+section {
+    /* フォント指定 */
+    font-family: "UD デジタル 教科書体 NK-B", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN",
+      "Hiragino Sans", Meiryo, sans-serif;
+
+    font-size: 28pt;
+    font-weight: bolder;
+
+    /* スライドのサイズを指定 デフォルトでは16:9 */
+    width: 100%;
+    height: 100%;
+
+    border-radius: 0px;
+    overflow: hidden;
+
+}
+
+img {
+    margin: 0 auto;
+    width: 100%;
+}
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
+
+
+/** 画像の角を丸くする */
+img[src*='#rounded'] {
+    border-radius: 100px; /* 角の丸みの大きさを調整 */
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.5)); /* X軸 Y軸 ブラーの範囲 色 */
+}
+
+
+section h2 {
+    /* font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif; */
+    font-size: 60pt;
+    color: #F3D273;
+    font-weight:700;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-text-stroke: 2px #444; /* 縁取りの太さと色 */
+    /* text-shadow: 7px 7px 0 #000000 */
+    text-shadow:
+        3px 3px 12px black,
+        0 0 1em white,
+        0 0 0.2em white;
+}
+
+section h2 a{
+    font-weight: bolder; /* h2のテキストを太字にする */
+    color: #00F;
+    text-decoration: underline; /* テキストに下線を引く */
+    text-decoration-color: blue; /* 下線の色を青くする */
+    -webkit-text-stroke: 1px #fff; /* 縁取りの太さと色 */
+}
+
+
+section h2 strong{
+    font-weight: bolder; /* h2のテキストを太字にする */
+    color: #550;
+    -webkit-text-stroke: 4px #fff; /* 縁取りの太さと色 */
+}
+
+section h1 {
+    font-size: 35pt;
+    color: #F3D273;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-text-stroke: 2px #444; /* 縁取りの太さと色 */
+    text-shadow:
+        2px 2px 6px black,
+        0 0 1em white,
+        0 0 0.2em white;
+}
+
+section h3 {
+    font-size: 25pt;
+}
+
+section h4 {
+    font-size: 20pt;
+    font-weight:900;
+}
+
+section h5 {
+    font-size: 40pt;
+    text-align: center;
+    -webkit-text-stroke: 1px #fff; /* 縁取りの太さと色 */
+    text-shadow:
+        2px 2px 6px black,
+        0 0 1em white,
+        0 0 0.2em white;
+    color: var(--accent-color);
+}
+
+section h6 {
+    font-size: 25pt;
+    opacity: 0.8;
+    text-align: right;
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: right;
+}
+
+section h6 strong { 
+    color: red;
+    font-style: italic;
+    font-weight:bolder;
+}
+
+section p strong {
+    color:#0040ff;
+    font-size:larger;
+}
+
+/* section h6::before {
+    content: "🤔";
+} */
+
+
+/* topクラス*/
+section.top {
+    background-image: url('./img/image1.png');
+    
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-color: yellowgreen;
+}
+
+/* normalクラス*/
+section.normal{
+    background-color: #FFF;
+    background-image: linear-gradient(to bottom left, #999, #FFF);
+
+}
+
+/* blueクラス*/
+section.blue{
+    background-color: #DFD;
+    background-image: linear-gradient(to bottom left, #66F, #CFC);
+}
+
+/* purpleクラス*/
+section.purple{
+    background-color: #DFD;
+    background-image: linear-gradient(to bottom left, #FBF, #CFC);
+}
+
+
+/* kintone クラス*/
+section.kintone{
+    /* background-color: #F3D273; */
+    background-color: #DFD;
+    background-image: linear-gradient(to bottom left, #F3D273, #FFF);
+}
+
+
+/* redクラス*/
+section.red{
+    background-color: #B83468;
+}
+
+/* greenクラス*/
+section.green{
+    background-color: #DFD;
+    background-image: linear-gradient(to bottom left, #8E8, #CCF);
+}
+
+
+/* kintone クラス*/
+section.kintone{
+    background-color: #F3D273;
+}
+
+/* kintone-small クラス*/
+section.kintone-small{
+    background-color: #F3D273;
+    font-size: 22pt;
+    font-weight: normal;
+}
+
+/* chatgpt クラス*/
+section.chatgpt{
+    background-color: #B83468;
+}
+
+section.complementary{
+    background-color: #0040ff
+}
+
+/* darkクラス*/
+section.h1-shadow h1{
+    color: white;
+    /* background-color: black; */
+    filter: drop-shadow(10px 10px 5px #FFD9D7);
+    vertical-align: top;
+    line-height: 100%;
+}
+
+.slide_page {font-weight:bold;transform:scale(2);margin:12px;}
+
+/* pagenation / total */
+section::after {
+    content: attr(data-marpit-pagination) " / " attr(data-marpit-pagination-total);
+}
+
+
+.center-bottom {
+    position: absolute;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+blockquote {
+    /* font-size: 80%; */
+    color: black;
+    /* background-color: #0002; */
+}
+
+/* 三重引用を脚注の記号に転用 */
+/* 下記はdefaultテーマ用。他のテーマで利用するときはbottomとleftを調節してください。 */
+/* スライド全体で利用するため、無名のstyleタグを利用しています。 */
+blockquote > blockquote > blockquote {
+    font-size: 60%;
+    font-weight: 800;
+    padding: 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 0;
+    border: 0;
+    border-top: 0.1em dashed #555;
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    color: black;
+    background-color: #FFF6;
+}
+

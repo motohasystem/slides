@@ -5,6 +5,8 @@ title: "ドキュメントのタイトル"
 <!-- 編集したら >Markdown PDF Export(html) でhtml化 -->
 
 # slide
+- 2024/3/19
+    - [「ドキュメント読むの面倒」を解決(devkin meetup! vol.3)](https://motohasystem.github.io/slides/20240319_devkin_meetup_vol3/)
 - 2024/1/23
     - [#2『AIと会話するプロンプトの秘密』 テクノトークタイム#2](https://motohasystem.github.io/slides/20240123_techno_talk_time_vol2/)
 - 2023/12/10
