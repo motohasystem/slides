@@ -18,9 +18,13 @@ title: "ドキュメントのタイトル"
 - 2022/11/3~
     - [アルゴリズムってなんだろう？](https://motohasystem.github.io/exlab_algorithm/#1)
     - 小学校向けの特別授業『アルゴリズム実験室』で使用しているスライドです（随時更新）
+
 # tool
 - [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
+
+- [kintonePluginMigrator](https://chromewebstore.google.com/detail/kintonepluginmigrator/pndmdhhanlckeimjahjfijelpkbgoeac)
+    - kintoneプラグインの設定情報をローカルのjsonファイルとしてエクスポート／インポートできるようになるchrome拡張です。
 
 # author
 - Daisuke Motohashi
