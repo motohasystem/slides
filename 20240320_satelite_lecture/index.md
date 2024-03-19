@@ -1,5 +1,5 @@
 
-# Kamiyama Town Satellite Lecture
+# Kamiyama Town Satelite Lecture
 - 2024/3/20 Daisuke Motohashi
 
 # japanese
