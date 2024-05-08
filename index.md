@@ -4,6 +4,8 @@ title: "Slides by Daisuke Motohashi"
 
 <!-- 編集したら >Markdown PDF Export(html) でhtml化 -->
 
+[Slides by Daisuke Motohashi](https://motohasystem.github.io/slides/)
+
 # slide
 - 2024/3/19
     - [「ドキュメント読むの面倒」を解決(devkin meetup! vol.3)](https://motohasystem.github.io/slides/20240319_devkin_meetup_vol3/)
