@@ -10,27 +10,29 @@ title: "Slides by Daisuke Motohashi"
 
 ## 登壇とスライド
 
+- 2024/5/11
+    - [AI-X(Transformation)の第一歩を踏み出そう](./20240511_cafe_kagawa/index.html) (kintone Café 香川 Vol.12)
 - 2024/5/8
     - 神山まるごと高専 ネイバーフッド概論にゲスト参加
-        - [自己紹介スライド](https://motohasystem.kamiyama.club/20240508_neighborhood/)
+        - [自己紹介スライド](./20240508_neighborhood/index.html)
 - 2024/3/19
-    - [「ドキュメント読むの面倒」を解決(devkin meetup! vol.3)](https://motohasystem.github.io/slides/20240319_devkin_meetup_vol3/)
+    - [「ドキュメント読むの面倒」を解決](./20240319_devkin_meetup_vol3/index.html) (devkin meetup! vol.3)
 - 2024/3/1
     - デジタルスキル研修: 『アルゴリズム実験室／具体と抽象・作文と図解』
 - 2024/3/1
     - “なんとなく”から“なるほど”へ「生成AIで今日からできる効率化テクニック」セミナー
 - 2024/1/23
-    - [#2『AIと会話するプロンプトの秘密』 テクノトークタイム#2](https://motohasystem.github.io/slides/20240123_techno_talk_time_vol2/)
+    - [#2『AIと会話するプロンプトの秘密』](./20240123_techno_talk_time_vol2/index.html) (テクノトークタイム #2)
 - 2023/12/10
-    - [#1『ChatGPTで楽に集計してみよう』 テクノトークタイム#1](https://motohasystem.github.io/slides/20231210_techno_talk_time_vol1/)
+    - [#1『ChatGPTで楽に集計してみよう』](./20231210_techno_talk_time_vol1/index.html) (テクノトークタイム #1)
 - 2023/11/28
-    - [kintone異種拡張技戦(devkin meetup! vol.1)](https://motohasystem.github.io/slides/20231128_slide_devkin_meetup/)
+    - [kintone異種拡張技戦](./20231128_slide_devkin_meetup/index.html) (devkin meetup! vol.1)
 - 2023/10/28
-    - [メールを「書く」から「彫る」時代へ(kintone Café 高知 Vol.19)](./20231028_slide_kintone_cafe_kochi/index.html)
+    - [メールを「書く」から「彫る」時代へ](./20231028_slide_kintone_cafe_kochi/index.html) (kintone Café 高知 Vol.19)
 - 2023/9/2
     - kitnone hack 2023
 - 2023/7/19
-    - AI時代の営業支援ツール kintone x ChatGPT連携による自動化の実現(RICHO Value Presentation 2023 in 徳島)
+    - AI時代の営業支援ツール kintone x ChatGPT連携による自動化の実現 (RICHO Value Presentation 2023 in 徳島)
 
 ## 小中学校向け特別授業
 - 2022/11/3~
