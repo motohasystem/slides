@@ -9,7 +9,8 @@ title: "Slides by Daisuke Motohashi"
 本橋の登壇記録と公開スライドを集めています。全てのスライドはクリエイティブ・コモンズ 表示-継承 4.0 ( CC BY-SA 4.0 )です。
 
 ## 登壇とスライド
-
+- 2024/5/17
+    - ＼今日からできる／生成AIと効率化テクノロジー (徳島南ロータリークラブさま例会)
 - 2024/5/11
     - [AI-X(Transformation)の第一歩を踏み出そう](./20240511_cafe_kagawa/index.html) (kintone Café 香川 Vol.12)
 - 2024/5/8
