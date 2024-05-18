@@ -1,14 +1,14 @@
 ---
-title: "Slides by Daisuke Motohashi"
+title: "本橋のしおりがわり"
 ---
 
-<!-- 編集したら >Markdown PDF Export(html) でhtml化 -->
+<!-- 編集したら make.bat でhtml化(pandoc) -->
 
-# [本橋のしおり代わり](https://motohasystem.kamiyama.club/)
+<!-- # [本橋のしおり代わり](https://motohasystem.kamiyama.club/) -->
 
 本橋の登壇記録と公開スライドを集めています。全てのスライドはクリエイティブ・コモンズ 表示-継承 4.0 ( CC BY-SA 4.0 )です。
 
-## 登壇とスライド
+# 登壇とスライド
 - 2024/5/17
     - ＼今日からできる／生成AIと効率化テクノロジー (徳島南ロータリークラブさま例会)
 - 2024/5/11
@@ -35,7 +35,7 @@ title: "Slides by Daisuke Motohashi"
 - 2023/7/19
     - AI時代の営業支援ツール kintone x ChatGPT連携による自動化の実現 (RICHO Value Presentation 2023 in 徳島)
 
-## 小中学校向け特別授業
+# 小中学校向け特別授業
 - 2022/11/3~
     - [アルゴリズムってなんだろう？](https://motohasystem.github.io/exlab_algorithm/#1)
     - 小学校向けの特別授業『アルゴリズム実験室』で使用しているスライドです（随時更新）
@@ -45,7 +45,7 @@ title: "Slides by Daisuke Motohashi"
         - [2019/9 ~ 2023/2](https://note.com/cdkamiyama/m/mcbf378c78647)
         - [2016/2 ~ 2020/1](https://medium.com/ex-lab-drone/7e1c454c1ff0)
 
-## tool
+# tool
 - [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
 
@@ -53,10 +53,10 @@ title: "Slides by Daisuke Motohashi"
     - kintoneプラグインの設定情報をローカルのjsonファイルとしてエクスポート／インポートできるようになるchrome拡張です。
 
 
-## contact
+# contact
 - [bluesky](https://bsky.app/profile/motohasystem.kamiyama.club)
 - [facebook](https://www.facebook.com/motohasystem)
 - [X(twitter)](https://twitter.com/motohasystem)
 
-## license
-- [Attribution-ShareAlike 4.0 International](./LICENSE)
+# license
+- スライドはすべて [Attribution-ShareAlike 4.0 International](./LICENSE) で公開しています。toolはそれぞれのライセンスをご参照ください。
