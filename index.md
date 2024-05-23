@@ -46,12 +46,16 @@ title: "本橋のしおりがわり"
         - [2016/2 ~ 2020/1](https://medium.com/ex-lab-drone/7e1c454c1ff0)
 
 # tool
+- [Snackゐsper](https://github.com/monosus/snackwhisper)
+    - WhisperAPIを利用した軽量シンプルな音声データのAI書き起こしツールです。
+    - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/n061d2f98b9f6?from=notice)。
+
 - [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
 
 - [kintonePluginMigrator](https://chromewebstore.google.com/detail/kintonepluginmigrator/pndmdhhanlckeimjahjfijelpkbgoeac)
     - kintoneプラグインの設定情報をローカルのjsonファイルとしてエクスポート／インポートできるようになるchrome拡張です。
-
+    - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/nfc3048198ca2)。
 
 # contact
 - [bluesky](https://bsky.app/profile/motohasystem.kamiyama.club)
