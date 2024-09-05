@@ -52,14 +52,18 @@ title: "本橋のしおりがわり"
         - [2016/2 ~ 2020/1](https://medium.com/ex-lab-drone/7e1c454c1ff0)
 
 # tool
-- [Snackゐsper](https://github.com/monosus/snackwhisper)
+- [kinToys](https://chromewebstore.google.com/detail/kintoys/johmoplafihagepgbceblbhlmacejoee) (Chrome拡張)
+    - kintone用Chrome拡張機能です。
+    - 一覧画面や詳細画面からクリップボードにデータを直接コピーする機能をkintoneに追加します。
+
+- [Snackゐsper](https://github.com/monosus/snackwhisper) (Python製GUIツール)
     - WhisperAPIを利用した軽量シンプルな音声データのAI書き起こしツールです。
     - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/n061d2f98b9f6?from=notice)。
 
-- [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html)
+- [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html) (Webアプリ)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
 
-- [kintonePluginMigrator](https://chromewebstore.google.com/detail/kintonepluginmigrator/pndmdhhanlckeimjahjfijelpkbgoeac)
+- [kintonePluginMigrator](https://chromewebstore.google.com/detail/kintonepluginmigrator/pndmdhhanlckeimjahjfijelpkbgoeac) (Chrome拡張)
     - kintoneプラグインの設定情報をローカルのjsonファイルとしてエクスポート／インポートできるようになるchrome拡張です。
     - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/nfc3048198ca2)。
 
