@@ -9,6 +9,8 @@ title: "本橋のしおりがわり"
 本橋の登壇記録と公開スライドを集めています。全てのスライドはクリエイティブ・コモンズ 表示-継承 4.0 ( CC BY-SA 4.0 )です。
 
 # 登壇とスライド
+- 2024/9/9
+  - [情報ハブ化のラストワンマイル](./20240909_kintonehack2024/index.html)（kintone hack 2024）
 - 2024/9/6
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（青山ビジネススクールサテライトレクチャー）
 - 2024/6/8
@@ -54,21 +56,24 @@ title: "本橋のしおりがわり"
         - [2019/9 ~ 2023/2](https://note.com/cdkamiyama/m/mcbf378c78647)
         - [2016/2 ~ 2020/1](https://medium.com/ex-lab-drone/7e1c454c1ff0)
 
-# tool
+# Software
+### Chrome拡張
 - [kinToys](https://chromewebstore.google.com/detail/kintoys/johmoplafihagepgbceblbhlmacejoee) (Chrome拡張)
     - kintone用Chrome拡張機能です。
     - 一覧画面や詳細画面からクリップボードにデータを直接コピーする機能をkintoneに追加します。
+- [kintonePluginMigrator](https://chromewebstore.google.com/detail/kintonepluginmigrator/pndmdhhanlckeimjahjfijelpkbgoeac) (Chrome拡張)
+    - kintoneプラグインの設定情報をローカルのjsonファイルとしてエクスポート／インポートできるようになるchrome拡張です。
+    - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/nfc3048198ca2)。
 
+### Windows
 - [Snackゐsper](https://github.com/monosus/snackwhisper) (Python製GUIツール)
     - WhisperAPIを利用した軽量シンプルな音声データのAI書き起こしツールです。
     - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/n061d2f98b9f6?from=notice)。
 
+### Web Application
 - [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html) (Webアプリ)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
 
-- [kintonePluginMigrator](https://chromewebstore.google.com/detail/kintonepluginmigrator/pndmdhhanlckeimjahjfijelpkbgoeac) (Chrome拡張)
-    - kintoneプラグインの設定情報をローカルのjsonファイルとしてエクスポート／インポートできるようになるchrome拡張です。
-    - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/nfc3048198ca2)。
 
 # contact
 - [bluesky](https://bsky.app/profile/motohasystem.kamiyama.club)
@@ -76,4 +81,4 @@ title: "本橋のしおりがわり"
 - [X(twitter)](https://twitter.com/motohasystem)
 
 # license
-- スライドはすべて [Attribution-ShareAlike 4.0 International](./LICENSE) で公開しています。toolはそれぞれのライセンスをご参照ください。
+- スライドはすべて [Attribution-ShareAlike 4.0 International](./LICENSE) で公開しています。Softwareはそれぞれのライセンスをご参照ください。
