@@ -71,7 +71,9 @@ title: "本橋のしおりがわり"
     - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/n061d2f98b9f6?from=notice)。
 
 ### Web Application
-- [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html) (Webアプリ)
+- [CoverTweak](https://motohasystem.github.io/CoverTweak/)
+    - CoverTweakは、kintoneスペースのカバー画像を簡単に作成するためのツールです。 このツールを使用すると、背景画像やアイコン画像を選択するだけで、カスタマイズしたカバー画像を生成することができます。([github](https://github.com/motohasystem/CoverTweak))
+- [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
 
 
