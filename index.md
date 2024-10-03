@@ -9,6 +9,8 @@ title: "本橋のしおりがわり"
 本橋の登壇記録と公開スライドを集めています。全てのスライドはクリエイティブ・コモンズ 表示-継承 4.0 ( CC BY-SA 4.0 )です。
 
 # 登壇とスライド
+- 2024/9/28
+  - [電話とkintoneの異種拡張技](./20240928_kintone_valetude_vol1/index.html)（kintone valetudo Vol.1 in 愛媛）
 - 2024/9/9
   - [情報ハブ化のラストワンマイル](./20240909_kintonehack2024/index.html)（kintone hack 2024）
 - 2024/9/6
