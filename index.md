@@ -12,26 +12,32 @@ title: "本橋のしおりがわり"
 - 2024/10/16
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（神山町サテライトレクチャー）
 - 2024/10/10
-  - IT技術と身近なテクノロジー（令和6年度神山町成人大学）
+  - IT技術と身近なテクノロジー（令和6年度神山町成人大学）[[note]](https://note.com/motohasystem/n/n0b35c1faf3bf)
+
 - 2024/9/28
-  - [電話とkintoneの異種拡張技](./20240928_kintone_valetude_vol1/index.html)（kintone valetudo Vol.1 in 愛媛）
+  - [電話とkintoneの異種拡張技](./20240928_kintone_valetude_vol1/index.html)（kintone valetudo Vol.1 in 愛媛）[[note]](https://note.com/motohasystem/n/nc1ef0f47db8c)
+
 - 2024/9/9
-  - [情報ハブ化のラストワンマイル](./20240909_kintonehack2024/index.html)（kintone hack 2024）
+  - [情報ハブ化のラストワンマイル](./20240909_kintonehack2024/index.html)（kintone hack 2024）[[note]](https://note.com/motohasystem/n/n2195c6a3f917)
+
 - 2024/9/6
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（青山ビジネススクールサテライトレクチャー）
 - 2024/6/8
-    - [異種拡張技入門！ kintoneカスタマイズの種類をおさらい](./20240608_cafe_kouchi/index.html) (kintone Café 高知 Vol.20)
+    - [異種拡張技入門！ kintoneカスタマイズの種類をおさらい](./20240608_cafe_kouchi/index.html) (kintone Café 高知 Vol.20) [[note]](https://note.com/motohasystem/n/n470658c712c2)
+
 - 2024/5/25
     - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（神山町サテライトレクチャー）
 - 2024/5/17
-    - ＼今日からできる／生成AIと効率化テクノロジー (徳島南ロータリークラブさま例会)
+    - ＼今日からできる／生成AIと効率化テクノロジー (徳島南ロータリークラブさま例会) [[note]](https://note.com/motohasystem/n/n910b2cf54fbf)
+
 - 2024/5/11
     - [AI-X(Transformation)の第一歩を踏み出そう](./20240511_cafe_kagawa/index.html) (kintone Café 香川 Vol.12)
 - 2024/5/8
     - 神山まるごと高専 ネイバーフッド概論にゲスト参加
         - [自己紹介スライド](./20240508_neighborhood/index.html)
 - 2024/3/19
-    - [「ドキュメント読むの面倒」を解決](./20240319_devkin_meetup_vol3/index.html) (devkin meetup! vol.3)
+    - [「ドキュメント読むの面倒」を解決](./20240319_devkin_meetup_vol3/index.html) (devkin meetup! vol.3) [[note]](https://note.com/motohasystem/n/ne1b03af3a079)
+
 - 2024/3/1
     - デジタルスキル研修: 『アルゴリズム実験室／具体と抽象・作文と図解』
 - 2024/3/1
@@ -41,7 +47,7 @@ title: "本橋のしおりがわり"
 - 2023/12/10
     - [#1『ChatGPTで楽に集計してみよう』](./20231210_techno_talk_time_vol1/index.html) (テクノトークタイム #1)
 - 2023/11/28
-    - [kintone異種拡張技戦](./20231128_slide_devkin_meetup/index.html) (devkin meetup! vol.1)
+    - [kintone異種拡張技戦](./20231128_slide_devkin_meetup/index.html) (devkin meetup! vol.1) [[note]](https://note.com/motohasystem/n/na97b50b9fd72)
 - 2023/10/28
     - [メールを「書く」から「彫る」時代へ](./20231028_slide_kintone_cafe_kochi/index.html) (kintone Café 高知 Vol.19)
 - 2023/9/2
