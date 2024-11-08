@@ -6,9 +6,21 @@ title: "本橋のしおりがわり"
 
 <!-- # [本橋のしおり代わり](https://motohasystem.kamiyama.club/) -->
 
-本橋の登壇記録と公開スライドを集めています。全てのスライドはクリエイティブ・コモンズ 表示-継承 4.0 ( CC BY-SA 4.0 )です。
+本橋の登壇記録と公開スライドを集めています。全てのスライドはクリエイティブ・コモンズ 表示-継承 4.0 ( CC BY-SA 4.0 )です。ソフトウェアはそれぞれのgithubリポジトリをご覧ください。
 
-# 登壇とスライド
+## 目次
+
+- [登壇とスライド](#登壇とスライド)
+- [小中学校向け特別授業](#小中学校向け特別授業)
+- [Software](#software)
+    - [Chrome拡張](#chrome拡張)
+    - [Windows](#windows)
+    - [Web Application](#web-application)
+- [contact](#contact)
+- [license](#license)
+
+
+# <a href="#登壇とスライド">登壇とスライド</a>
 - 2024/10/20
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（JSDGオープンセミナー2024 in 徳島）
 
@@ -58,7 +70,7 @@ title: "本橋のしおりがわり"
 - 2023/7/19
     - AI時代の営業支援ツール kintone x ChatGPT連携による自動化の実現 (RICHO Value Presentation 2023 in 徳島)
 
-# 小中学校向け特別授業
+# <a href="#小中学校向け特別授業">小中学校向け特別授業</a>
 - 2023/3/12
     - [小学生から楽しめる！　アルゴリズムを使った迷路探索の授業(note)](https://note.com/cdkamiyama/n/nfb7ce652570c)
     - アルゴリズムを体験して学ぶ特別授業『アルゴリズム実験室』の紹介です。
@@ -71,7 +83,7 @@ title: "本橋のしおりがわり"
         - [2019/9 ~ 2023/2](https://note.com/cdkamiyama/m/mcbf378c78647)
         - [2016/2 ~ 2020/1](https://medium.com/ex-lab-drone/7e1c454c1ff0)
 
-# Software
+# [Software](#Software)
 ### Chrome拡張
 - [kinToys](https://chromewebstore.google.com/detail/kintoys/johmoplafihagepgbceblbhlmacejoee) (Chrome拡張)
     - kintone用Chrome拡張機能です。
