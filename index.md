@@ -102,7 +102,8 @@ title: "本橋のしおりがわり"
     - CoverTweakは、kintoneスペースのカバー画像を簡単に作成するためのツールです。 このツールを使用すると、背景画像やアイコン画像を選択するだけで、カスタマイズしたカバー画像を生成することができます。([github](https://github.com/motohasystem/CoverTweak))
 - [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
-
+- [棒倒し法で迷路を描く](https://motohasystem.github.io/p5_easy_maze/)
+    - アルゴリズム実験室の教材です。([github](https://github.com/motohasystem/p5_easy_maze/actions))
 
 # contact
 - [bluesky](https://bsky.app/profile/motohasystem.kamiyama.club)
