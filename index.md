@@ -21,6 +21,10 @@ title: "本橋のしおりがわり"
 
 
 # <a href="#登壇とスライド">登壇とスライド</a>
+
+- 2024/11/28
+  - [留守番電話も観光案内も](https://motohasystem.kamiyama.club/20241128_vonage_meetup/)（Vonage Meetup in Osaka！Vol.2）
+
 - 2024/10/20
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（JSDGオープンセミナー2024 in 徳島）
 
@@ -71,6 +75,8 @@ title: "本橋のしおりがわり"
     - AI時代の営業支援ツール kintone x ChatGPT連携による自動化の実現 (RICHO Value Presentation 2023 in 徳島)
 
 # <a href="#小中学校向け特別授業">小中学校向け特別授業</a>
+- 2024/11/20, 11/26
+    - [KMS特別授業 アルゴリズムってなんだろう？](https://motohasystem.github.io/exlab_algorithm/#1)
 - 2023/3/12
     - [小学生から楽しめる！　アルゴリズムを使った迷路探索の授業(note)](https://note.com/cdkamiyama/n/nfb7ce652570c)
     - アルゴリズムを体験して学ぶ特別授業『アルゴリズム実験室』の紹介です。
