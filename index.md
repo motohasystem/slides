@@ -22,8 +22,11 @@ title: "本橋のしおりがわり"
 
 # <a href="#登壇とスライド">登壇とスライド</a>
 
+- 2025/1/25
+  - [ハッカソンで活用するkintone](./20250125_devkin_meetup_in_osaka/) (devkin meetup! Vol.4 【リアル新年会】in 大阪)
+
 - 2024/11/28
-  - [留守番電話も観光案内も](https://motohasystem.kamiyama.club/20241128_vonage_meetup/)（Vonage Meetup in Osaka！Vol.2）
+  - [留守番電話も観光案内も](./20241128_vonage_meetup/)（Vonage Meetup in Osaka！Vol.2）
 
 - 2024/10/20
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（JSDGオープンセミナー2024 in 徳島）
