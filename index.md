@@ -13,14 +13,17 @@ title: "本橋のしおりがわり"
 - [登壇とスライド](#登壇とスライド)
 - [小中学校向け特別授業](#小中学校向け特別授業)
 - [Software](#software)
-    - [Chrome拡張](#chrome拡張)
-    - [Windows](#windows)
-    - [Web Application](#web-application)
+        - [Chrome拡張](#chrome拡張)
+        - [Windows](#windows)
+        - [Web Application](#web-application)
 - [contact](#contact)
 - [license](#license)
 
 
 # <a href="#登壇とスライド">登壇とスライド</a>
+
+- 2025/04/19
+    - [ぼうさいパッカーンのシステム話 kintone乱麻に解きほぐせ！](./20250419_cafe_tokushima/index.html) (kintone Café 徳島 Vol.8)
 
 - 2025/1/25
   - [ハッカソンで活用するkintone](./20250125_devkin_meetup_in_osaka/) (devkin meetup! Vol.4 【リアル新年会】in 大阪)
