@@ -116,6 +116,8 @@ title: "本橋のしおりがわり"
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
 - [棒倒し法で迷路を描く](https://motohasystem.github.io/p5_easy_maze/)
     - アルゴリズム実験室の教材です。([github](https://github.com/motohasystem/p5_easy_maze/actions))
+- [ひとあし先読みライフゲーム](https://motohasystem.github.io/p5_lifegame/)
+    - アルゴリズム実験室の教材です。2025年から使用します。([github](https://github.com/motohasystem/p5_lifegame))
 
 # contact
 - [bluesky](https://bsky.app/profile/motohasystem.kamiyama.club)
