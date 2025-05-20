@@ -22,7 +22,7 @@ title: "本橋のしおりがわり"
 
 # <a href="#登壇とスライド">登壇とスライド</a>
 - 2025/05/20
-    - [クリップボード愛あいを語る ハノイの塔Stackと流しそうめん](https://motohasystem.kamiyama.club/20250520_devkin_meetup_vol5) (devkin meetup! Vol.5)
+    - [クリップボード愛を語る ハノイの塔と流しそうめん](https://motohasystem.kamiyama.club/20250520_devkin_meetup_vol5) (devkin meetup! Vol.5)
 
 - 2025/04/19
     - [ぼうさいパッカーンのシステム話 kintone乱麻に解きほぐせ！](./20250419_cafe_tokushima/index.html) (kintone Café 徳島 Vol.8)
