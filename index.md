@@ -21,6 +21,9 @@ title: "本橋のしおりがわり"
 
 
 # <a href="#登壇とスライド">登壇とスライド</a>
+- 2025/05/23
+    - 『ぼうさいパッカーン』プログラマーの視点（被災者支援情報DXセミナー）
+
 - 2025/05/20
     - [クリップボード愛を語る ハノイの塔と流しそうめん](https://motohasystem.kamiyama.club/20250520_devkin_meetup_vol5) (devkin meetup! Vol.5)
 
