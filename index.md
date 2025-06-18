@@ -21,6 +21,9 @@ title: "本橋のしおりがわり"
 
 
 # <a href="#登壇とスライド">登壇とスライド</a>
+- 2025/06/18
+    - [毎日2分で選択除草 ～草と共に暮らす小さな習慣～](https://motohasystem.kamiyama.club/20250619_kusakari_forum/index.html)（かみやま草刈りフォーラム）
+
 - 2025/06/07
     - [kintone異種拡張技【クラウド編】 kintoneで作るIoT管理画面](https://motohasystem.kamiyama.club/20250607_cafe_kouchi/index.html)（SORACOM UG 四国 x kintone Café 高知 Vol.22）
 
