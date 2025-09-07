@@ -21,6 +21,9 @@ title: "本橋のしおりがわり"
 
 
 # <a href="#登壇とスライド">登壇とスライド</a>
+- 2025/9/7
+    - [ちょっとの不便はDIYで解決 AIと進む日曜プログラミング](https://motohasystem.kamiyama.club/20250907_devkin_meetup_vol6) (devkin meetup! Vol.6)
+
 - 2025/9/5
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（青山ビジネススクールサテライトレクチャー）
 
@@ -125,7 +128,9 @@ title: "本橋のしおりがわり"
     - 使い方やインストール手順について[noteを書きました](https://note.com/motohasystem/n/n061d2f98b9f6?from=notice)。
 
 ### Web Application
-- [CoverTweak](https://motohasystem.github.io/CoverTweak/)
+- [サムネ盛丸](https://motohasystem.github.io/note-title-crafter/)
+    - Youtubeやnoteなどのサムネイルに文字を入れるツールです。画像をコピペして文字を入力するだけで盛り盛りのサムネイルが作れます。
+- [CoverTweak](https://covertweak.kintoys.app/)
     - CoverTweakは、kintoneスペースのカバー画像を簡単に作成するためのツールです。 このツールを使用すると、背景画像やアイコン画像を選択するだけで、カスタマイズしたカバー画像を生成することができます。([github](https://github.com/motohasystem/CoverTweak))
 - [MailSmooth](https://motohasystem.github.io/mail_smooth_web/index.html)
     - メルマガを音声化する前処理として、URLの置き換え、セパレータとして使われる連続した記号の除去、指定文字数での分割を行います。
