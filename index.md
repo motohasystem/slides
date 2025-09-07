@@ -22,7 +22,7 @@ title: "本橋のしおりがわり"
 
 # <a href="#登壇とスライド">登壇とスライド</a>
 - 2025/9/7
-    - [ちょっとの不便はDIYで解決 AIと進む日曜プログラミング](https://motohasystem.kamiyama.club/20250907_devkin_meetup_vol6) (devkin meetup! Vol.6)
+    - [ちょっとした不便をDIYで解決！ AI片手に日曜コーディング](https://motohasystem.kamiyama.club/20250907_devkin_meetup_vol6) (devkin meetup! Vol.6)
 
 - 2025/9/5
   - クリエイティブな過疎に繋がるデジタルスキルとテクノロジー（青山ビジネススクールサテライトレクチャー）
